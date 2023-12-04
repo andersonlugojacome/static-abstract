@@ -1,0 +1,14 @@
+/Volumes/SSData/GitHub/static-abstract/bin/Debug/net7.0/static-abstract
+/Volumes/SSData/GitHub/static-abstract/bin/Debug/net7.0/static-abstract.deps.json
+/Volumes/SSData/GitHub/static-abstract/bin/Debug/net7.0/static-abstract.runtimeconfig.json
+/Volumes/SSData/GitHub/static-abstract/bin/Debug/net7.0/static-abstract.dll
+/Volumes/SSData/GitHub/static-abstract/bin/Debug/net7.0/static-abstract.pdb
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.AssemblyInfoInputs.cache
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.AssemblyInfo.cs
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.csproj.CoreCompileInputs.cache
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.dll
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/refint/static-abstract.dll
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.pdb
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/static-abstract.genruntimeconfig.cache
+/Volumes/SSData/GitHub/static-abstract/obj/Debug/net7.0/ref/static-abstract.dll
